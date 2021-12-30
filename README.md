@@ -1,8 +1,8 @@
-![info](https://www.superview.dev/images/metatag.png)
+![info](https://superview.dev/images/metatag.png)
 
 
 # Superview
-[Superview](https://www.superview.dev) is a collection of videos about mac, iOS, Swift development from conferences around the world. Presentations range on topics like design, security, frameworks, swift, xcode and many other finer things.
+[Superview](https://superview.dev) is a collection of videos about mac, iOS, Swift development from conferences around the world. Presentations range on topics like design, security, frameworks, swift, xcode and many other finer things.
 
 #### What is this site?
 This website is a repository of past conference videos that deal with topics on design and development of apple software products. The initial inspiration for this site came from http://www.pomo.tv but that website and github repository has not had much activity lately. So I decided to build this.
